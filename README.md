@@ -2,7 +2,7 @@
 Case study on Fintech company 
 # Reducing Transaction Costs in Real Estate Title Insurance
 
-## There is major opportunity for blockchain to reshape the title insurance industry. by registering real estate on a distributed legder, blockchain could streamline the manually intensive practice of examming pulbic records when validating titles in real estate transactions.
+## There is major opportunity for blockchain to reshape the title insurance industry. By registering real estate on a distributed legder, blockchain could streamline the manually intensive practice of examming pulbic records when validating titles in real estate transactions.
 
 
 # First American Title Corporation
